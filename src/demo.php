@@ -1,12 +1,12 @@
 <?php
-
+namespace Demo;
 /**
  * Created by PhpStorm.
  * User: wh
  * Date: 2018/11/27
- * Time: 上午10:17
+ * Time: 上午11:13
  */
-class index
+class demo
 {
     public function demo()
     {
