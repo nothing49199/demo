@@ -10,6 +10,6 @@ class index
 {
     public function demo()
     {
-        echo 'this is my number one composer test';
+        echo 'this is my number one composer test 1.3';
     }
 }
